@@ -1,4 +1,4 @@
-# [![Grav Mobile Detect Plugin](assets/grav-roman.png)][project]
+# [![Grav Roman Plugin](assets/grav-roman.png)][project]
 
 [![Release](https://img.shields.io/github/release/dimitrilongo/grav-plugin-roman.svg)](https://github.com/dimitrilongo/grav-plugin-roman/releases)
 [![Issues](https://img.shields.io/github/issues/dimitrilongo/grav-plugin-roman.svg)](https://github.com/dimitrilongo/grav-plugin-roman/issues)
