@@ -8,6 +8,7 @@ author:
   url: https://github.com/dimitrilongo/grav-plugin-roman
 homepage: https://github.com/dimitrilongo/grav-plugin-roman
 bugs: https://github.com/dimitrilongo/grav-plugin-roman/issues
+docs: https://github.com/dimitrilongo/grav-plugin-roman/blob/master/README.md
 keywords: [roman, grav, plugin, number]
 readme: https://github.com/dimitrilongo/grav-plugin-roman/blob/master/README.md
 license: MIT
